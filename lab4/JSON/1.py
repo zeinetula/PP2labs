@@ -1,6 +1,6 @@
 import json
 
-with open ("sample-data.json", "r") as ourfile:
+with open (r'C:\Users\ayanz\OneDrive\Desktop\PP2labs\lab4\JSON\sample_data.json') as ourfile:
     ourdata = json.load(ourfile)
 
 ourinterfaces = ourdata["imdata"]

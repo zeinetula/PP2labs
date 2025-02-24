@@ -1,0 +1,23 @@
+Hello! My name is Ivan Petrov, and my friend’s name is John Doe. We work at a company called "Tech Innovations." My email is ivan.petrov@example.com, and John's is john.doe123@company.net.
+
+Yesterday, we visited our company's website: https://www.tech-innovations.com. We also checked another site: http://example.org/contact.
+
+Our phone numbers are:
+
+Ivan: +1 (555) 123-4567
+John: +44 20 7946 0958
+Important dates:
+
+My birthday: April 5, 1992
+John’s birthday: 1990-11-23
+We have some product codes and IDs:
+
+Order ID: ORD-987654
+Product SKU: SKU_123-XYZ
+Some random numbers: 42, 3.1415, 0xFF, 0101
+
+And here are a few sentences with special characters:
+
+The price is $99.99.
+Please use the hashtag #TechTrends.
+The temperature today is -5°C.

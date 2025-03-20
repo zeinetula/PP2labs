@@ -33,10 +33,11 @@ while True:
     date = datetime.datetime.now()
 
     second = math.ceil(date.second + date.microsecond / 1_000_000)
-    minute = date.minute + second / 60  
+    minute = date.minute + second / 60
 
     angle_sec = 360 - (second * 6)  
-    angle_min = 360 - (minute * 6)  
+    angle_min = 310 - (minute * 6)  
+    print(str(angle_min)+"--"+str(minute))  
 
     
     rotated_min = pygame.transform.rotate(min_hand, angle_min)
